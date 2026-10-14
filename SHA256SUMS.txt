@@ -1,3 +1,4 @@
+86eb2ff98600ecea7e5d2879b4c05fe97ba268dbffbba9ccc3c4f68eb5187385  .gitattributes
 859cd0093a2c29d6e9b829400e3ba3c456f7fff5e2891dcd5bc414b840a4ee65  .gitignore
 ddfcd909edac1fa3bb7efe015e7783c49a65034578f45e22491b4fed34ca3492  README.md
 ee0073ba476fd74fc2d272172d9d4aa960cdc255cbf9d0871a056ba36131a201  digital/png/altstack-app-icon-1024.png
