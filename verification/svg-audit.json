@@ -1,0 +1,203 @@
+[
+	{
+		"file": "altstack-logo-horizontal.svg",
+		"bytes": 7625,
+		"viewBox": [0.0, 0.0, 1132.0, 256.0],
+		"aspect": 4.422,
+		"aspect_class": "horizontal",
+		"colors": ["#000000"],
+		"gradients": 0,
+		"anchors": 235,
+		"library_anchor_percentiles": {
+			"p10": 23.0,
+			"p25": 37.0,
+			"median": 75.0,
+			"p75": 155.0,
+			"p90": 257.8,
+			"p95": 379.45
+		},
+		"content_bbox": [16.0, 16.0, 1099.18, 240.0],
+		"margins": {
+			"left": 16.0,
+			"right": 32.8,
+			"top": 16.0,
+			"bottom": 16.0
+		},
+		"bbox_fill_ratio": 0.837,
+		"score": 91,
+		"findings": [
+			{
+				"level": "INFO",
+				"code": "complexity",
+				"message": "235 anchor points (library median 75.0, p75 155.0). Check every point earns its place."
+			},
+			{
+				"level": "WARN",
+				"code": "near-miss-angle",
+				"message": "2 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 133.0° (→135°) len 64.6 at (1026,137); 133.1° (→135°) len 74.1 at (1096,89). (Expected — and fine — for type set on a curve or deliberately rotated elements.)"
+			}
+		]
+	},
+	{
+		"file": "altstack-logo-stacked.svg",
+		"bytes": 7621,
+		"viewBox": [0.0, 0.0, 384.0, 256.0],
+		"aspect": 1.5,
+		"aspect_class": "wide",
+		"colors": ["#000000"],
+		"gradients": 0,
+		"anchors": 235,
+		"library_anchor_percentiles": {
+			"p10": 23.0,
+			"p25": 37.0,
+			"median": 75.0,
+			"p75": 155.0,
+			"p90": 257.8,
+			"p95": 379.45
+		},
+		"content_bbox": [32.0, 16.5, 352.0, 237.96],
+		"margins": {
+			"left": 32.0,
+			"right": 32.0,
+			"top": 16.5,
+			"bottom": 18.0
+		},
+		"bbox_fill_ratio": 0.721,
+		"score": 91,
+		"findings": [
+			{
+				"level": "INFO",
+				"code": "complexity",
+				"message": "235 anchor points (library median 75.0, p75 155.0). Check every point earns its place."
+			},
+			{
+				"level": "WARN",
+				"code": "near-miss-angle",
+				"message": "2 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 133.0° (→135°) len 27.3 at (321,210); 133.1° (→135°) len 31.3 at (351,190). (Expected — and fine — for type set on a curve or deliberately rotated elements.)"
+			}
+		]
+	},
+	{
+		"file": "altstack-symbol-small.svg",
+		"bytes": 349,
+		"viewBox": [0.0, 0.0, 256.0, 256.0],
+		"aspect": 1.0,
+		"aspect_class": "square",
+		"colors": ["#000000"],
+		"gradients": 0,
+		"anchors": 16,
+		"library_anchor_percentiles": {
+			"p10": 21.0,
+			"p25": 31.0,
+			"median": 53.0,
+			"p75": 95.5,
+			"p90": 194.0,
+			"p95": 274.0
+		},
+		"content_bbox": [16.0, 16.0, 240.0, 240.0],
+		"margins": {
+			"left": 16.0,
+			"right": 16.0,
+			"top": 16.0,
+			"bottom": 16.0
+		},
+		"bbox_fill_ratio": 0.766,
+		"score": 100,
+		"findings": []
+	},
+	{
+		"file": "altstack-symbol-white-optical.svg",
+		"bytes": 438,
+		"viewBox": [0.0, 0.0, 256.0, 256.0],
+		"aspect": 1.0,
+		"aspect_class": "square",
+		"colors": ["#ffffff"],
+		"gradients": 0,
+		"anchors": 16,
+		"library_anchor_percentiles": {
+			"p10": 21.0,
+			"p25": 31.0,
+			"median": 53.0,
+			"p75": 95.5,
+			"p90": 194.0,
+			"p95": 274.0
+		},
+		"content_bbox": [16.87, 16.93, 239.13, 239.07],
+		"margins": {
+			"left": 16.9,
+			"right": 16.9,
+			"top": 16.9,
+			"bottom": 16.9
+		},
+		"bbox_fill_ratio": 0.753,
+		"score": 100,
+		"findings": []
+	},
+	{
+		"file": "altstack-symbol.svg",
+		"bytes": 335,
+		"viewBox": [0.0, 0.0, 256.0, 256.0],
+		"aspect": 1.0,
+		"aspect_class": "square",
+		"colors": ["#000000"],
+		"gradients": 0,
+		"anchors": 16,
+		"library_anchor_percentiles": {
+			"p10": 21.0,
+			"p25": 31.0,
+			"median": 53.0,
+			"p75": 95.5,
+			"p90": 194.0,
+			"p95": 274.0
+		},
+		"content_bbox": [16.0, 16.0, 240.0, 240.0],
+		"margins": {
+			"left": 16.0,
+			"right": 16.0,
+			"top": 16.0,
+			"bottom": 16.0
+		},
+		"bbox_fill_ratio": 0.766,
+		"score": 100,
+		"findings": []
+	},
+	{
+		"file": "altstack-wordmark.svg",
+		"bytes": 7315,
+		"viewBox": [0.0, 0.0, 823.0, 256.0],
+		"aspect": 3.215,
+		"aspect_class": "horizontal",
+		"colors": ["#000000"],
+		"gradients": 0,
+		"anchors": 219,
+		"library_anchor_percentiles": {
+			"p10": 23.0,
+			"p25": 37.0,
+			"median": 75.0,
+			"p75": 155.0,
+			"p90": 257.8,
+			"p95": 379.45
+		},
+		"content_bbox": [32.0, 52.27, 790.1, 203.72],
+		"margins": {
+			"left": 32.0,
+			"right": 32.9,
+			"top": 52.3,
+			"bottom": 52.3
+		},
+		"bbox_fill_ratio": 0.545,
+		"score": 91,
+		"findings": [
+			{
+				"level": "INFO",
+				"code": "complexity",
+				"message": "219 anchor points (library median 75.0, p75 155.0). Check every point earns its place."
+			},
+			{
+				"level": "WARN",
+				"code": "near-miss-angle",
+				"message": "2 straight edge(s) are 0.3–3° off a clean angle — they read as mistakes. Snap them: 133.0° (→135°) len 64.6 at (717,137); 133.1° (→135°) len 74.1 at (787,89). (Expected — and fine — for type set on a curve or deliberately rotated elements.)"
+			}
+		]
+	}
+]

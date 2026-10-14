@@ -1,0 +1,17 @@
+{
+	"primary": {
+		"name": "Black",
+		"hex": "#000000",
+		"rgb": [0, 0, 0],
+		"cmyk_percent": [0, 0, 0, 100]
+	},
+	"reversed": {
+		"name": "White",
+		"hex": "#FFFFFF",
+		"rgb": [255, 255, 255],
+		"cmyk_percent": [0, 0, 0, 0]
+	},
+	"black_white_contrast": "21:1",
+	"spot_colour": null,
+	"print_note": "Print masters use explicit 100K process black. White is paper or a knockout; a separate white-ink process needs printer setup. No Pantone match is assigned."
+}

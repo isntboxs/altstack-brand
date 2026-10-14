@@ -1,0 +1,45 @@
+{
+	"brand": "Altstack",
+	"deck_title": "Approved identity",
+	"brief": "A catalogue for discovering open-source software, comparing alternatives, and finding useful developer tools. The identity should be abstract, confident, understated, technical, and clear at small sizes.",
+	"adjectives": [
+		"abstract",
+		"confident",
+		"understated",
+		"technical",
+		"timeless"
+	],
+	"criteria": "An independent silhouette, an open stepped channel, pure black and white, and the existing lowercase Inter wordmark.",
+	"industry": "software",
+	"mockups": ["readme", "app-icon", "website", "terminal", "sticker", "social"],
+	"nav": ["Categories", "Activity", "Submit"],
+	"brand_color": "#000000",
+	"tile_color": "#000000",
+	"greyscale": false,
+	"final": true,
+	"round": 1,
+	"concepts": [
+		{
+			"name": "Offset Blocks",
+			"symbol": "../digital/svg/altstack-symbol-black.svg",
+			"lockup": "../digital/svg/altstack-logo-horizontal-black.svg",
+			"stacked": "../digital/svg/altstack-logo-stacked-black.svg",
+			"symbol_on_tile": "../digital/svg/altstack-symbol-white.svg",
+			"symbol_on_dark": "../digital/svg/altstack-symbol-white.svg",
+			"lockup_on_dark": "../digital/svg/altstack-logo-horizontal-white.svg",
+			"stacked_on_dark": "../digital/svg/altstack-logo-stacked-white.svg",
+			"idea": "Two solid, opposed blocks are separated by a stepped diagonal channel.",
+			"rationale": [
+				"The two registration notches define the silhouette independently from the name.",
+				"A 16-unit construction grid keeps the terminal gaps open at 16 px.",
+				"The lowercase Inter Medium wordmark is retained and fully outlined."
+			]
+		}
+	],
+	"recommendation": "Approved for Altstack. Use the horizontal lockup as the primary signature and the symbol independently in compact placements.",
+	"next_steps": [
+		"Use the supplied vector masters and fixed lockups.",
+		"Use the pixel-aligned small master for 16-32 px placements.",
+		"Follow the included one-page usage guide."
+	]
+}

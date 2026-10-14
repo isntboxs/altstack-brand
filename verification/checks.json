@@ -1,0 +1,24 @@
+{
+	"master_svg_count": 6,
+	"digital_svg_count": 13,
+	"png_export_count": 42,
+	"print_pdf_count": 4,
+	"guide_pdf_pages": 1,
+	"presentation_slide_count": 5,
+	"mockup_count": 6,
+	"checks": [
+		"Canonical symbol and small SVG geometry match",
+		"No live text or effects in production SVGs",
+		"All PNG exports are monochrome and correctly sized",
+		"Black and white symbol alpha masks match at every export size",
+		"16/32 px favicon PNGs match canonical symbol exports",
+		"ICO contains exact 16/32/48 px PNG geometry",
+		"16 px negative channel remains open",
+		"Maskable artwork fits its central 80% safe-zone circle",
+		"All print masters use K100 with no fonts or raster resources",
+		"All five PDF pages and five presentation slides visually inspected",
+		"Optional optical white master compared at 128 px",
+		"Minimum lockup sizes visually inspected"
+	],
+	"known_audit_notes": "Two near-angle warnings in the original Inter k outlines are intentional. The wordmark is retained without font-shape changes."
+}

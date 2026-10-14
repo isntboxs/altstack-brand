@@ -1,0 +1,14 @@
+{
+	"symbol_viewbox": [0, 0, 256, 256],
+	"symbol_grid": 16,
+	"minimum_gap": 32,
+	"wordmark_font": "Inter",
+	"wordmark_weight": 500,
+	"wordmark_em": 204.8,
+	"horizontal_wordmark_origin_x": 332.8,
+	"horizontal_viewbox": [0, 0, 1132, 256],
+	"stacked_viewbox": [0, 0, 384, 256],
+	"optical_reverse_body_scale": 0.985,
+	"font_source": "@fontsource-variable/inter/files/inter-latin-wght-normal.woff2",
+	"approved_geometry_sha256": "fcaf218fb730caaef9d75184ff818c0b35dde9adc932ed6a842cf6ac5819b01b"
+}
